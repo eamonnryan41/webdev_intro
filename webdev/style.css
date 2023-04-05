@@ -1,0 +1,28 @@
+h1{
+    background-color: purple;
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    border: 5px solid #555;
+}
+
+#links{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+a{
+    background-color: darkslateblue;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 2px;
+}
